@@ -1,0 +1,8 @@
+
+{
+  "name": "PakJobs - The Premier Pakistani Job Portal",
+  "description": "A comprehensive job portal specifically designed for Pakistan, featuring city-wise job listings, user authentication, and profile management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
